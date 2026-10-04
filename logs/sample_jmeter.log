@@ -1,0 +1,6 @@
+2026-10-04 14:00:00,123 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : TG_EC_PurchasingUsers
+2026-10-04 14:00:00,125 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group TG_EC_PurchasingUsers.
+2026-10-04 14:00:30,456 INFO o.a.j.r.Summariser: summary +     120 in 00:00:30 =    4.0/s Avg:   185 Min:    32 Max:   850 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2026-10-04 14:01:00,789 INFO o.a.j.r.Summariser: summary =     200 in 00:01:00 =    3.3/s Avg:   182 Min:    30 Max:   920 Err:     2 (1.00%)
+2026-10-04 14:01:01,000 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-10-04 14:01:01,005 INFO o.a.j.e.StandardJMeterEngine: Test completed
